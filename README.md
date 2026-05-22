@@ -22,4 +22,9 @@ print("ofcourse i am perfect")
 ```
 ---
 `print("i am too good to be true")
+---
 
+|name|age|roll.no|
+|---|---|---|
+|ruhi|13|17|
+|parikshit|12|67|
