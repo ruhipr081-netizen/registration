@@ -21,7 +21,7 @@
 print("ofcourse i am perfect")
 ```
 ---
-`print("i am too good to be true")
+`print("i am too good to be true")`
 ---
 
 |name|age|roll.no|
