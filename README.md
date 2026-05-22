@@ -28,3 +28,12 @@ print("ofcourse i am perfect")
 |---|---|---|
 |ruhi|13|17|
 |parikshit|12|67|
+---
+[this is my profile](https://www.instagram.com/ruh3212/)
+
+---
+-[x] Requirment Gathering
+-[] designing
+-[x] coding
+-[] engineering
+---
