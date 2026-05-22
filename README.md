@@ -32,8 +32,8 @@ print("ofcourse i am perfect")
 [this is my profile](https://www.instagram.com/ruh3212/)
 
 ---
--[x] Requirment Gathering
--[] designing
--[x] coding
--[] engineering
+-[x]Requirment Gathering
+-[ ]designing
+-[x]coding
+-[ ]engineering
 ---
