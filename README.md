@@ -1,13 +1,13 @@
 # ruhi
 ## prajapati
 ### my
-#### goddess
+#### uhhum
 
 **i am great.**
 
 *yes i am*
 
-***hi lovely gurll***
+***hi gurll***
 ---
 - me
 - myself
@@ -37,3 +37,4 @@ print("ofcourse i am perfect")
 -[x]coding
 -[ ]engineering
 ---
+>u need to be odd to be no.1
