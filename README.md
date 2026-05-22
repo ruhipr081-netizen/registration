@@ -17,7 +17,9 @@
 2. hahaha
 3. huhuhu
 ---
-```print("ofcourse i am perfect")
+```python
+print("ofcourse i am perfect")
+```
 ---
 `print("i am too good to be true")
 
